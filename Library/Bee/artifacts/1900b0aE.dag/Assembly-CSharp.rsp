@@ -364,6 +364,8 @@
 "Assets/GameCycle/Scripts/GameUpdater.cs"
 "Assets/GameCycle/Scripts/Interfaces/GameStateListener.cs"
 "Assets/GameCycle/Scripts/Turret.cs"
+"Assets/Syngletone/Scripts/Client.cs"
+"Assets/Syngletone/Scripts/Singletone.cs"
 -langversion:9.0
 /deterministic
 /optimize+

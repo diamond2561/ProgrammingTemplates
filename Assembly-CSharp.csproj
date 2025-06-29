@@ -68,6 +68,8 @@
     <Compile Include="Assets\GameCycle\Scripts\GameUI.cs" />
     <Compile Include="Assets\GameCycle\Scripts\GameCycle.cs" />
     <Compile Include="Assets\GameCycle\Scripts\CubeKeyboardInput.cs" />
+    <Compile Include="Assets\Syngletone\Scripts\Client.cs" />
+    <Compile Include="Assets\Syngletone\Scripts\Singletone.cs" />
     <Compile Include="Assets\GameCycle\Scripts\GameUpdater.cs" />
   </ItemGroup>
   <ItemGroup>
