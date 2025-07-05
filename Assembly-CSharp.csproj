@@ -63,14 +63,22 @@
     <Compile Include="Assets\GameCycle\Scripts\CubePlayer.cs" />
     <Compile Include="Assets\GameCycle\Scripts\Turret.cs" />
     <Compile Include="Assets\GameCycle\Scripts\GameInstaller.cs" />
+    <Compile Include="Assets\ServiceLocator\Scripts\CapsulePlayerInstaller.cs" />
+    <Compile Include="Assets\ServiceLocator\Scripts\ServiceLocator.cs" />
     <Compile Include="Assets\GameCycle\Scripts\CubeMoveController.cs" />
+    <Compile Include="Assets\ServiceLocator\Scripts\CapsuleCharacter.cs" />
+    <Compile Include="Assets\MVC\View.cs" />
+    <Compile Include="Assets\ServiceLocator\Scripts\CapsuleMoveController.cs" />
     <Compile Include="Assets\GameCycle\Scripts\Interfaces\GameStateListener.cs" />
     <Compile Include="Assets\GameCycle\Scripts\GameUI.cs" />
     <Compile Include="Assets\GameCycle\Scripts\GameCycle.cs" />
     <Compile Include="Assets\GameCycle\Scripts\CubeKeyboardInput.cs" />
     <Compile Include="Assets\Syngletone\Scripts\Client.cs" />
+    <Compile Include="Assets\MVC\Main.cs" />
     <Compile Include="Assets\Syngletone\Scripts\Singletone.cs" />
+    <Compile Include="Assets\ServiceLocator\Scripts\CapsuleMoveInput.cs" />
     <Compile Include="Assets\GameCycle\Scripts\GameUpdater.cs" />
+    <Compile Include="Assets\MVC\Controller.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|d:\\unity\\otuslessons\\templates\\githubprogrammingtemplates\\programmingtemplates\\assets\\syngletone\\scripts\\singletone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\syngletone\\scripts\\singletone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|d:\\unity\\otuslessons\\templates\\githubprogrammingtemplates\\programmingtemplates\\assets\\mvc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|d:\\unity\\otuslessons\\templates\\githubprogrammingtemplates\\programmingtemplates\\assets\\syngletone\\scripts\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\syngletone\\scripts\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|d:\\unity\\otuslessons\\templates\\githubprogrammingtemplates\\programmingtemplates\\assets\\mvc\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|d:\\unity\\otuslessons\\templates\\githubprogrammingtemplates\\programmingtemplates\\assets\\mvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\mvc\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\Syngletone\\Scripts\\Client.cs",
-              "RelativeDocumentMoniker": "Assets\\Syngletone\\Scripts\\Client.cs",
-              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\Syngletone\\Scripts\\Client.cs",
-              "RelativeToolTip": "Assets\\Syngletone\\Scripts\\Client.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\MVC\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Main.cs",
+              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\MVC\\Main.cs",
+              "RelativeToolTip": "Assets\\MVC\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:33:34.408Z",
+              "WhenOpened": "2025-07-05T05:22:34.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Singletone.cs",
-              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\Syngletone\\Scripts\\Singletone.cs",
-              "RelativeDocumentMoniker": "Assets\\Syngletone\\Scripts\\Singletone.cs",
-              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\Syngletone\\Scripts\\Singletone.cs",
-              "RelativeToolTip": "Assets\\Syngletone\\Scripts\\Singletone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\MVC\\Controller.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\Controller.cs",
+              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\MVC\\Controller.cs",
+              "RelativeToolTip": "Assets\\MVC\\Controller.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:32:15.518Z",
+              "WhenOpened": "2025-07-05T05:22:32.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "View.cs",
+              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\MVC\\View.cs",
+              "RelativeDocumentMoniker": "Assets\\MVC\\View.cs",
+              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\MVC\\View.cs",
+              "RelativeToolTip": "Assets\\MVC\\View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T05:22:48.345Z",
               "EditorCaption": ""
             }
           ]

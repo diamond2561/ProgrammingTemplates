@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|d:\\unity\\otuslessons\\templates\\githubprogrammingtemplates\\programmingtemplates\\assets\\syngletone\\scripts\\singletone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\syngletone\\scripts\\singletone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\assets\\servicelocator\\scripts\\capsulemovecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\servicelocator\\scripts\\capsulemovecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\assets\\servicelocator\\scripts\\capsulemoveinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\servicelocator\\scripts\\capsulemoveinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|d:\\unity\\otuslessons\\templates\\githubprogrammingtemplates\\programmingtemplates\\assets\\servicelocator\\scripts\\capsuleplayerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\servicelocator\\scripts\\capsuleplayerinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|d:\\unity\\otuslessons\\templates\\githubprogrammingtemplates\\programmingtemplates\\assets\\servicelocator\\scripts\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\servicelocator\\scripts\\servicelocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\assets\\servicelocator\\scripts\\capsulecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CCDF99-23A1-8F10-785D-0D289C221660}|Assembly-CSharp.csproj|solutionrelative:assets\\servicelocator\\scripts\\capsulecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Singletone.cs",
-              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\Syngletone\\Scripts\\Singletone.cs",
-              "RelativeDocumentMoniker": "Assets\\Syngletone\\Scripts\\Singletone.cs",
-              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\Syngletone\\Scripts\\Singletone.cs",
-              "RelativeToolTip": "Assets\\Syngletone\\Scripts\\Singletone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "CapsulePlayerInstaller.cs",
+              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\CapsulePlayerInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\ServiceLocator\\Scripts\\CapsulePlayerInstaller.cs",
+              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\CapsulePlayerInstaller.cs",
+              "RelativeToolTip": "Assets\\ServiceLocator\\Scripts\\CapsulePlayerInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-29T14:32:15.518Z",
+              "WhenOpened": "2025-07-03T11:00:22.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceLocator.cs",
+              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\ServiceLocator.cs",
+              "RelativeDocumentMoniker": "Assets\\ServiceLocator\\Scripts\\ServiceLocator.cs",
+              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\ServiceLocator.cs",
+              "RelativeToolTip": "Assets\\ServiceLocator\\Scripts\\ServiceLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:02:31.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CapsuleCharacter.cs",
+              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\CapsuleCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\ServiceLocator\\Scripts\\CapsuleCharacter.cs",
+              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\CapsuleCharacter.cs",
+              "RelativeToolTip": "Assets\\ServiceLocator\\Scripts\\CapsuleCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:53:03.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CapsuleMoveController.cs",
+              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\CapsuleMoveController.cs",
+              "RelativeDocumentMoniker": "Assets\\ServiceLocator\\Scripts\\CapsuleMoveController.cs",
+              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\CapsuleMoveController.cs",
+              "RelativeToolTip": "Assets\\ServiceLocator\\Scripts\\CapsuleMoveController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:51:49.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CapsuleMoveInput.cs",
+              "DocumentMoniker": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\CapsuleMoveInput.cs",
+              "RelativeDocumentMoniker": "Assets\\ServiceLocator\\Scripts\\CapsuleMoveInput.cs",
+              "ToolTip": "D:\\UNITY\\OtusLessons\\Templates\\GitHubProgrammingTemplates\\ProgrammingTemplates\\Assets\\ServiceLocator\\Scripts\\CapsuleMoveInput.cs",
+              "RelativeToolTip": "Assets\\ServiceLocator\\Scripts\\CapsuleMoveInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:45:44.172Z",
               "EditorCaption": ""
             }
           ]
